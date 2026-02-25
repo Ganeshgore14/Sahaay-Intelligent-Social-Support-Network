@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# Smart Donation Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A technology-driven donation platform that connects donors, NGOs, and communities to ensure transparent, efficient, and impactful social support.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Project Overview
+The Smart Donation Platform is designed to solve real-world challenges in digital charity such as lack of transparency, trust issues, and inefficient resource distribution.  
+The system enables verified need-based donations, tracks the impact of contributions, and encourages long-term donor participation using intelligent features and engagement mechanisms.
 
-### `npm start`
+This platform transforms traditional fundraising into a transparent and data-driven social impact ecosystem.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Key Features
 
-### `npm test`
+### Donor Module
+- Register and login securely  
+- Browse verified donation campaigns  
+- Donate money or sponsor required items  
+- Track donation status and updates  
+- View personal impact dashboard  
+- Earn reward points and donor ranking  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### NGO Module
+- Register organization and upload verification documents  
+- Create campaigns with required items or funds  
+- Update campaign progress  
+- Upload proof of distribution  
+- Respond to donor queries  
 
-### `npm run build`
+### Admin Module
+- Verify NGOs and campaign authenticity  
+- Monitor transactions and platform activity  
+- Detect suspicious campaigns  
+- Manage users and reports  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Smart Capabilities
+- AI-assisted donation suggestions  
+- Location-based campaign discovery  
+- Transparent tracking and update system  
+- Gamified reward and engagement mechanism  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## Technology Stack
+- Frontend: React.js, Tailwind CSS  
+- Backend/Services: Firebase  
+- Database: Firestore  
+- AI Integration: OpenAI API / Gemini API  
+- Maps: Google Maps API  
+- Payments: Razorpay (Test Mode)  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Objectives
+- Increase trust in digital donations  
+- Ensure correct resource matching  
+- Improve transparency in social funding  
+- Encourage continuous donor engagement  
+- Provide measurable social impact  
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Future Scope
+- Mobile application version  
+- Blockchain-based donation tracking  
+- Advanced AI fraud detection system  
+- Integration with government and CSR databases  
