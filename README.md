@@ -26,7 +26,7 @@ This platform transforms traditional fundraising into a transparent and data-dri
 - Create campaigns with required items or funds  
 - Update campaign progress  
 - Upload proof of distribution  
-- Respond to donor queries  
+
 
 ### Admin Module
 - Verify NGOs and campaign authenticity  
@@ -40,7 +40,7 @@ This platform transforms traditional fundraising into a transparent and data-dri
 - AI-assisted donation suggestions  
 - Location-based campaign discovery  
 - Transparent tracking and update system  
-- Gamified reward and engagement mechanism  
+
 
 ---
 
@@ -50,7 +50,7 @@ This platform transforms traditional fundraising into a transparent and data-dri
 - Database: Firestore  
 - AI Integration: OpenAI API / Gemini API  
 - Maps: Google Maps API  
-- Payments: Razorpay (Test Mode)  
+
 
 ---
 
