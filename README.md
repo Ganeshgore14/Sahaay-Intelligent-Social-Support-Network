@@ -63,8 +63,4 @@ This platform transforms traditional fundraising into a transparent and data-dri
 
 ---
 
-## Future Scope
-- Mobile application version  
-- Blockchain-based donation tracking  
-- Advanced AI fraud detection system  
-- Integration with government and CSR databases  
+
